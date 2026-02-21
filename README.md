@@ -1,2 +1,2 @@
-# k-mes-group
+# kumes-group
 Fun website project
